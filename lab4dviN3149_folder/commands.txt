@@ -1,0 +1,19 @@
+dump
+filter 23.59.59
+filter 12.59.39
+filter 21.07.1931
+push_front 01.01.01 23.43.10 30.10.2145
+push_front
+dump
+push_back 23.34.45 01.12.1990
+push_back
+dump
+pop_front
+pop_back
+dump
+filter
+dump
+dump a.bin a.txt b.bin
+cat
+cat a.bin b.bin
+help
